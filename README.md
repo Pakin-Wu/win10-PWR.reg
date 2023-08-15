@@ -6,13 +6,16 @@
 4. 没有 处理器电源管理 选项怎么办
 5. 记录关于注册表内处理器电源管理选项GUID对应的中文选项
 6. To be continua...
+
 ......
+
 博客链接：[笔记本Windows10电源管理内的处理器电源管理子项相关](https://blog.csdn.net/Pakin_Wu/article/details/132302276)
 
 
 ---
 
 `Processor Power management settings and configurations.reg` 注册表文件，
+
 用于修复win10电脑处理器电源管理选项
 
 需要可自行下载
