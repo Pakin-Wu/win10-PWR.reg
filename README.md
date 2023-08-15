@@ -14,9 +14,13 @@
 
 ---
 
-`Processor Power management settings and configurations.reg` 注册表文件，
+# 文件说明：
 
-用于修复win10电脑处理器电源管理选项
+`Processor Power management settings and configurations.reg` 注册表文件，用于修复win10电脑处理器电源管理选项
+
+`backup.reg`  注册表文件，注册表里`\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings` PowerSettings的备份文件，防止搞坏了可以用此来复原
+
+`ALL reg.txt` 电源管理内**所有GUID对应的中文选项**
 
 需要可自行下载
 
